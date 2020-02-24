@@ -1,4 +1,7 @@
-Here you find all the prerequisites for the IBM Developer Unconference and some other ipmortant information
+Here you find all the prerequisites for the IBM Developer Unconference (26th Feb. 2020) and some other important information.
+
+***Agenda***
+https://ibm.biz/unconf-agenda
 
 ***PREREQUISITES***
 - Bring your own laptop (preferable min. 8GB RAM)
