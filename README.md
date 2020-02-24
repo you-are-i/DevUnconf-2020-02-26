@@ -1,4 +1,4 @@
-Here you find all the prerequisites for the IBM Developer Unconference
+Here you find all the prerequisites for the IBM Developer Unconference and some other ipmortant information
 
 ***PREREQUISITES***
 - Bring your own laptop (preferable min. 8GB RAM)
