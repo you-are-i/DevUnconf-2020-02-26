@@ -4,6 +4,7 @@ Here you find all the prerequisites for the IBM Developer Unconference (26th Feb
 
 https://ibm.biz/unconf-agenda
 
+
 ***PREREQUISITES***
 - Bring your own laptop (preferable min. 8GB RAM)
 - Sign up for the IBM Cloud: https://ibm.biz/unconf-cloud
