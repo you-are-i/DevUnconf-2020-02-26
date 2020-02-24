@@ -1,6 +1,7 @@
 Here you find all the prerequisites for the IBM Developer Unconference (26th Feb. 2020) and some other important information.
 
-***Agenda***
+***AGENDA***
+
 https://ibm.biz/unconf-agenda
 
 ***PREREQUISITES***
